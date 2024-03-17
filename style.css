@@ -1,0 +1,111 @@
+.navbar ,a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    height: 50px;
+    width: 100%;
+    padding-left: 10px;
+}
+links{
+    text-align: right;
+}
+.ele{
+    padding-left: 10px;
+    
+}
+a:hover{
+    color: rgb(211, 159, 38);
+   
+}
+.section1{
+        background-repeat: no-repeat;
+        background-image: url(/projectmin/images/unsplash-NuFUbftUu_s-unsplash.jpg);
+        background-size: cover;
+        background-position: center; /* or contain, or specific dimensions */
+        height: 100vh;
+        width: 100vw;
+    }
+.contentone{
+    color: white;
+    text-align: center;
+    padding-top: 7em;
+    font-weight: 900;
+}
+.section2{
+    padding-top: 35px;
+    background-size: cover;
+    
+   
+}
+.contenttwo{
+   
+    text-align: center;
+}
+.contenttwo > h2{
+    font-size: 50px;
+    font-weight: 900;
+}
+.cards{
+    width: 20%;
+    margin-right: 10px;
+    display: inline;
+   
+
+}
+
+.cardimg{
+height: 100px;
+}
+.section3{
+    background-color:black;
+    color:white;
+    height: 55%;
+   padding-top: 20px;
+   padding-bottom: 150px;
+}
+.thr{
+    font-size: 3rem;
+    font-weight: 900;
+    
+    
+}
+.left{
+    float: left;
+    margin-right: 90px;
+}
+.right{
+
+    margin-top: 5%;
+    
+}
+.myimg{
+    text-align: center;
+    
+    border-radius: 600px;
+    height: 300px;
+}
+.p{
+    margin-left: 100px;
+}
+.right>p{
+    text-align: left;
+    font-weight:500;
+}
+footer{
+    clear: both;
+    background-color: black;
+    height: 60px;
+    color:white;
+    text-align: center;
+}
+.btx{
+    display: inline;
+    padding: 10px 20px;
+    background-color: black; 
+    color: #fff; 
+    text-decoration: none; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 16px; 
+}
