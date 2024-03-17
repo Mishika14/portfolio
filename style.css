@@ -19,7 +19,7 @@ a:hover{
 }
 .section1{
         background-repeat: no-repeat;
-        background-image: url(/projectmin/images/unsplash-NuFUbftUu_s-unsplash.jpg);
+        background-image: url(/portfolio/images/unsplash-NuFUbftUu_s-unsplash.jpg);
         background-size: cover;
         background-position: center; /* or contain, or specific dimensions */
         height: 100vh;
